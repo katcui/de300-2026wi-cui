@@ -1,0 +1,24 @@
+{
+  "timestamp": "2026-02-04T04:08:08",
+  "hostname": "ip-10-192-1-105",
+  "instance_id": "i-0223bf6e9895a1cc4",
+  "instance_type": "t3.medium",
+  "availability_zone": "us-east-1c",
+  "python": "3.12.3",
+  "torch": "2.10.0+cpu",
+  "transformers": "5.0.0",
+  "cuda_available": false,
+  "checkpoint": "bert-base-uncased",
+  "text": "Hello from EC2. This is a BERT smoke test.",
+  "cls_embedding_shape": [
+    1,
+    768
+  ],
+  "cls_embedding_first5": [
+    -0.15949255228042603,
+    0.22568225860595703,
+    -0.04916691780090332,
+    -0.058729954063892365,
+    -0.33038461208343506
+  ]
+}
